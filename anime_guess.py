@@ -7,3 +7,8 @@ def anime (name):
         case "bleach":
             print("the main protaganist is KOROSAKI ICHIGO !")
 anime("one_piece")
+
+def read_anime():
+    print("the top 3 anime or the big 3 are one_piece , naruto , bleach ")
+
+read_anime()
