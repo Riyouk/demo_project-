@@ -9,10 +9,11 @@ def anime (name):
 anime("one_piece")
 
 def read_anime():
-    print("the top 3 anime or the big 3 are one_piece , naruto , bleach ")
+    print("the top 3 anime or the big 3 are one_piece , naruto , bleach")
 
 read_anime()
 
 def add(a,b):
     print("Addition of two numbers is: ",a+b)
 add(10,20)
+print("sapad")
